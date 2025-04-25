@@ -1,4 +1,3 @@
-# learning-github
-apna college
-I am learning from shradha ma'am
-I am working on vs code
+A lightweight task reminder application that allows users to set reminders for specific tasks with a
+date and time. The application automatically triggers reminders at the scheduled time and marks tasks as
+completed after notification.
